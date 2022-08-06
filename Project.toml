@@ -1,0 +1,13 @@
+name = "SolidState"
+uuid = "56d0e44b-f44e-483e-b1af-aa6c0ac2aade"
+authors = ["itsgt <islagle3@gatech.edu> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
